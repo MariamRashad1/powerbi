@@ -59,7 +59,7 @@ This Power BI dashboard provides an in-depth analysis of the sales data for a co
 ![Overview Tab](images/home_report.png) <!-- Replace with actual image link -->
 _Example of the **Overview Tab** in the dashboard, showing key KPIs and total sales trends._
 
-![Customer Tab](https://image_link_customer_tab.png) <!-- Replace with actual image link -->
+![Customer Tab](images/customer_report.png) <!-- Replace with actual image link -->
 _Example of the **Customer Tab**, showcasing customer demographics and purchase frequency._
 
 ![Product Tab](https://image_link_product_tab.png) <!-- Replace with actual image link -->
